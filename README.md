@@ -1,8 +1,8 @@
 # Hello!
 
 My name is Jesse Moore and here are some projects I've built.
-
-<div style="border: 1px solid rgba(0,0,0,.1); padding:0 15px; margin-bottom: 20px">
+<br/>
+<div style="border: 1px solid rgba(0,0,0,.5); padding:0 15px; margin-bottom: 20px">
 
 ## Running Event Creator
 
@@ -27,6 +27,7 @@ An application that enables race hosts to create running event pages with intera
 <a href="https://github.com/jesse-moore/run_events_app">CMS Repository</a> | <a href="https://github.com/jesse-moore/run_events_sites">Event Pages Repository</a> | <a href="https://github.com/jesse-moore/run_events_api">Server Repository</a> | <a href="https://rmap.site">Live</a>
 
 </div>
+<br/>
 <div style="border: 1px solid rgba(0,0,0,.1); padding:0 15px; margin-bottom: 20px">
 
 ## Mintbean & Stepzen Hackathon -> Running Club Event Manager
@@ -48,6 +49,7 @@ A single page application that dynamically creates event pages from an Airtable 
 | <a href="https://airtable.com/shrLa6iAlMxDJWecu">Airtable Base</a>
 
 </div>
+<br/>
 <div style="border: 1px solid rgba(0,0,0,.1); padding:0 15px; margin-bottom: 20px">
 
 ## Personal Running Stats
