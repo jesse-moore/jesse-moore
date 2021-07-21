@@ -42,7 +42,7 @@ An application that enables race hosts to create running event pages with intera
 
 A single page application that dynamically creates event pages from an Airtable base.
 <br/>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6793882553297235968/">Won hackathon best use of Stepzen</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6793882553297235968/">Won hackathon for best use of Stepzen</a>
 
 <a href="https://github.com/jesse-moore/stepzen_project">Repository</a> | <a href="https://stepzen-project.web.app/">Demo</a>
 | <a href="https://airtable.com/shrLa6iAlMxDJWecu">Airtable Base</a>
