@@ -1,5 +1,4 @@
 # Hello!
-
 My name is Jesse Moore and here are some projects I've built.
 <br/>
 <div style="border: 1px solid rgba(0,0,0,.5); padding:0 15px; margin-bottom: 20px">
@@ -75,6 +74,12 @@ A single page, responsive site that displays personal run data.
 <a href="https://github.com/jesse-moore/running-stats-client">Client Repository</a> | <a href="https://github.com/jesse-moore/running-stats-server">Server Repository</a> | <a href="https://running-stats.web.app/">Live</a>
 
 </div>
+<br/>
+
+## Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-moore&layout=compact&langs_count=6)](https://github.com/jesse-moore)
+[![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesse-moore&hide_rank=true&hide_title=true)](https://github.com/jesse-moore)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
